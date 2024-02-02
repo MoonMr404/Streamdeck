@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LhkY+4PR1j1Z6/nmKWK+9CazZyK/0J/ehoJuEjg7Q0HLjrph8sN3sHQsuX1rb+3Sq4TZUhfBQ1liOs3okuuKKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Francesco\\RiderProjects\\Streamdeck\\Streamdeck\\Streamdeck.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Francesco\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Francesco\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Francesco\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Francesco\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
