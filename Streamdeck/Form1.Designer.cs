@@ -35,5 +35,14 @@ partial class Form1
         this.Text = "Streamdeck";
     }
 
+    private void InitialiazeButton()
+    {
+            Button b = new Button();
+            b.Location = new Point(200,200);
+            b.Text = "Bottone";
+
+            this.Controls.Add(b);
+    }
+
     #endregion
 }
