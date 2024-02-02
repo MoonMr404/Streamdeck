@@ -1,4 +1,6 @@
-﻿namespace Streamdeck;
+﻿using System.Diagnostics;
+
+namespace Streamdeck;
 
 partial class Form1
 {
@@ -40,8 +42,23 @@ partial class Form1
             Button b = new Button();
             b.Location = new Point(200,200);
             b.Text = "Bottone";
-
+            b.Click += new EventHandler(executeScript);
             this.Controls.Add(b);
+    }
+
+    private void executeScript(object o, EventArgs e)
+    {
+        Process s = new Process();
+            s.StartInfo.FileName = "python"; // Assicurati che "python" sia nel tuo PATH
+            s.StartInfo.Arguments = "ScriptFolder/SpamLink.py";
+            s.StartInfo.RedirectStandardOutput = true;
+            s.StartInfo.UseShellExecute = false;
+            s.StartInfo.CreateNoWindow = true;
+            
+        s.Start();
+		s.WaitForExit();
+
+
     }
 
     #endregion

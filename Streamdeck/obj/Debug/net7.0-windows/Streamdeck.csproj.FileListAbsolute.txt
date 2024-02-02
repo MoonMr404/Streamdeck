@@ -1,0 +1,15 @@
+C:\Users\Francesco\RiderProjects\Streamdeck\Streamdeck\bin\Debug\net7.0-windows\Streamdeck.exe
+C:\Users\Francesco\RiderProjects\Streamdeck\Streamdeck\bin\Debug\net7.0-windows\Streamdeck.deps.json
+C:\Users\Francesco\RiderProjects\Streamdeck\Streamdeck\bin\Debug\net7.0-windows\Streamdeck.runtimeconfig.json
+C:\Users\Francesco\RiderProjects\Streamdeck\Streamdeck\bin\Debug\net7.0-windows\Streamdeck.dll
+C:\Users\Francesco\RiderProjects\Streamdeck\Streamdeck\bin\Debug\net7.0-windows\Streamdeck.pdb
+C:\Users\Francesco\RiderProjects\Streamdeck\Streamdeck\obj\Debug\net7.0-windows\Streamdeck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francesco\RiderProjects\Streamdeck\Streamdeck\obj\Debug\net7.0-windows\Streamdeck.AssemblyInfoInputs.cache
+C:\Users\Francesco\RiderProjects\Streamdeck\Streamdeck\obj\Debug\net7.0-windows\Streamdeck.AssemblyInfo.cs
+C:\Users\Francesco\RiderProjects\Streamdeck\Streamdeck\obj\Debug\net7.0-windows\Streamdeck.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\RiderProjects\Streamdeck\Streamdeck\obj\Debug\net7.0-windows\Streamdeck.sourcelink.json
+C:\Users\Francesco\RiderProjects\Streamdeck\Streamdeck\obj\Debug\net7.0-windows\Streamdeck.dll
+C:\Users\Francesco\RiderProjects\Streamdeck\Streamdeck\obj\Debug\net7.0-windows\refint\Streamdeck.dll
+C:\Users\Francesco\RiderProjects\Streamdeck\Streamdeck\obj\Debug\net7.0-windows\Streamdeck.pdb
+C:\Users\Francesco\RiderProjects\Streamdeck\Streamdeck\obj\Debug\net7.0-windows\Streamdeck.genruntimeconfig.cache
+C:\Users\Francesco\RiderProjects\Streamdeck\Streamdeck\obj\Debug\net7.0-windows\ref\Streamdeck.dll
