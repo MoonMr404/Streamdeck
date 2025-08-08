@@ -7,18 +7,19 @@ import java.net.InetSocketAddress;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        // Creazione del server sulla porta 8080
         HttpServer server = HttpServer.create(new InetSocketAddress(8080), 0);
-
-        // Associa il path /test a un handler
+        
         server.createContext("/spotify", new RequestHandler());
         server.createContext("/discord", new RequestHandler());
-        
-
-        // Avvia il server (usa il thread predefinito)
+        server.createContext("/youtube", new RequestHandler());
+        server.createContext("/screenshot", new RequestHandler());
+        server.createContext("/google", new RequestHandler());
+        server.createContext("/notion", new RequestHandler());
+        server.createContext("/notionCalendar", new RequestHandler());
+        server.createContext("/steam", new RequestHandler());
+                
         server.setExecutor(null);
         server.start();
-
         System.out.println("Server avviato su http://localhost:8080/");
     }
 }
